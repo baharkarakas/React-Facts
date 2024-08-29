@@ -1,4 +1,4 @@
-[https://earnest-queijadas-7cc442.netlify.app](https://kaleidoscopic-sawine-ec2438.netlify.app)
+https://app.netlify.com/sites/kaleidoscopic-sawine-ec2438/overview
 <img src="./screenshots/react-facts-dark.png"/>
 
 <img src="./screenshots/react-facts-light.png"/>
